@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         progressDialog.setMessage("Loading...");
         progressDialog.show();
 
-        // get the webview from the layout
+        // get the web-view from the layout
         webView = findViewById(R.id.webView);
 
         // for handling Android Device [Back] key press
@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         settings.setAllowFileAccessFromFileURLs(true);
         settings.setUserAgentString(new WebView(this).getSettings().getUserAgentString());
 
-        // set the downlaod listner
+        // set the download listener
         webView.setDownloadListener(downloadListener);
 
         // load the website
