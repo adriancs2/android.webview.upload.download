@@ -6,7 +6,7 @@ Blog Post: https://adriancs.com/mobile-app/943/build-a-simple-android-web-app-wi
 
 Converts Website into Android Web App.
 
-This article demonstrates one of the ways to build an Android Web App that support uploading and downloading files.
+This project demonstrates one of the ways to build an Android Web App that support uploading and downloading files.
 
 Github (Source Code): https://github.com/adriancs2/android.webview.upload.download
 
