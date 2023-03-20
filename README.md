@@ -252,9 +252,9 @@ Insert 3 uses-permission request lines
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="My App"
         android:supportsRtl="true"
-        android:theme="@style/Theme.SMV"
+        android:theme="@style/Theme.MyApp"
         tools:targetApi="31">
         <activity
             android:name=".MainActivity"
