@@ -582,3 +582,6 @@ To build for uploading to Google PlayStore, you may select [`Android App Bundle`
 
 Thank you and happy coding.
 
+## Alternative
+
+- https://github.com/rupok/webview
