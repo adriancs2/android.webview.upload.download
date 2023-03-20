@@ -26,7 +26,7 @@ At the time of writing this, I’m using the latest version which is: **Android 
 
 ![](https://raw.githubusercontent.com/adriancs2/android.webview.upload.download/main/wiki/android_webview_00.png)
 
-At Android Studio, create a new “Phone“project, select “Empty Activity” template.
+At Android Studio, create a new "**Phone**" project, select "**Empty Activity**" template.
 
 ![](https://raw.githubusercontent.com/adriancs2/android.webview.upload.download/main/wiki/android_webview_01.png)
 
@@ -34,13 +34,13 @@ Fill in basic project info:
 
 ![](https://raw.githubusercontent.com/adriancs2/android.webview.upload.download/main/wiki/android_webview_02.png)
 
-Read about “Package Name“.
+Read about "[Package Name](https://developer.android.com/studio/build/configure-app-module)".
 
-Depands on your application needs, if you wish your app to be able to run on most Android devices, select “API 19: Android 4.4 (KitKat)” (info is based at the time of writing this).
+Depands on your application needs, if you wish your app to be able to run on most Android devices, select "**API 19: Android 4.4 (KitKat)**" (info is based at the time of writing this).
 
-Language: Java (This article will use Java)
+Language: **Java** *(This article will be using Java)*
 
-Click “Finish” to start creating the app.
+Click "**Finish**" to start creating the app.
 
 Wait for a moment for Android Studio to load and creates project files. Upon ready, you should be able to see something like this:
 
