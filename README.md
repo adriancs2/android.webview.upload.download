@@ -115,7 +115,7 @@ For more info on changing the App Icons, please refer to the following Android D
 
 ## Setup the Layout
 
-Next, edit the “ActionBar“. Open the following theme files:
+Next, edit the "`ActionBar`". Open the following theme files:
 ```
 app > res > values > themes.xml
 app > res > values > themes.xml (night)
@@ -572,7 +572,7 @@ The code will look something like this: [https://github.com/adriancs2/android.we
 
 Finally, let’s test out the app.
 
-![](https://raw.githubusercontent.com/adriancs2/android.webview.upload.download/main/wiki/android_webview_11.png)
+![](https://raw.githubusercontent.com/adriancs2/android.webview.upload.download/main/wiki/android_webview_12.png)
 
 To connect a real Android Phone to Android Studio, you may enable `Developer Mode` then turn on `USB Debugging` on the Android device. Connect the Android to PC through USB cable, Android Studio should be able to catch it up and display it at the device list.
 
