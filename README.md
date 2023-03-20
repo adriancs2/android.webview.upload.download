@@ -585,3 +585,4 @@ Thank you and happy coding.
 ## Alternative
 
 - https://github.com/rupok/webview
+- https://github.com/didiksazali/AndroidWebView
