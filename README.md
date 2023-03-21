@@ -12,9 +12,10 @@ Github (Source Code): https://github.com/adriancs2/android.webview.upload.downlo
 
 References:
 
-- [Android WebView with Download, Upload, JavaScript Alert, and HTML5 Video Support](https://www.isrgrajan.com/android-webview-with-download-upload-javascript-alert-html5-video-support.html), written by Isrg KB Web Team
-- [Android Developer Documentation](https://developer.android.com/studio/intro)
-- [Build web apps in WebView (Android Documentation)](https://developer.android.com/develop/ui/views/layout/webapps/webview)
+- *[Android WebView with Download, Upload, JavaScript Alert, and HTML5 Video Support*](https://www.isrgrajan.com/android-webview-with-download-upload-javascript-alert-html5-video-support.html),<br />- written by Isrg KB Web Team*
+- *[Android Developer Documentation](https://developer.android.com/studio/intro)*
+- *[Build web apps in WebView (Android Documentation)](https://developer.android.com/develop/ui/views/layout/webapps/webview)*
+- *[Youtube - How To Create WebView App In Android Studio](https://www.youtube.com/watch?v=mLsLwqpDoE4)*
 
 I’ll be using the Android Studio and Java in this project.
 
