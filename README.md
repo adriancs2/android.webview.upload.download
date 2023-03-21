@@ -311,20 +311,7 @@ app > java > com.company.product > MainActivity
 
 Here’s the initial code:
 
-```java
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.os.Bundle;
-
-public class MainActivity extends AppCompatActivity {
-
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-    }
-}
-```
+![](https://raw.githubusercontent.com/adriancs2/android.webview.upload.download/main/wiki/android_webview_mainactivity.png)
 
 Import the following class libraries:
 
